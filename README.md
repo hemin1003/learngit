@@ -1,7 +1,7 @@
 # learngit
 练习Git使用的仓库
 
-Git教程
+Git教程\n
 Git简介
 Git的诞生
 集中式vs分布式
