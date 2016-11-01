@@ -1,6 +1,6 @@
 11
 aaaaaaaaaaaaaaaaaa
 696
-halfhalf-feature-001
+halfhalf-feature-001-feature002
 new444feature
 bug-001
