@@ -4,3 +4,4 @@ aaaaaaaaaaaaaaaaaa
 halfhalf-feature-001-feature002
 new444feature
 bug-001
+bug-002
