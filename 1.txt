@@ -6,3 +6,6 @@ new444feature
 bug-001
 bug-002
 bug-003
+007
+008
+009
